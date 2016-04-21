@@ -17,5 +17,4 @@ public class Dollar {
 		Dollar dollar = (Dollar)obj;
 		return amount == dollar.amount;
 	}
-	
 }
