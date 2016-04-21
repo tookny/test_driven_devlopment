@@ -27,3 +27,4 @@ public class MoneyTest {
 	//TODO : hashmap test - only equals?
 
 }
+
